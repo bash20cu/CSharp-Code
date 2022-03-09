@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\TerminalApps\bin\Debug\net6.0\TerminalApps.exe
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\TerminalApps\bin\Debug\net6.0\TerminalApps.deps.json
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\TerminalApps\bin\Debug\net6.0\TerminalApps.runtimeconfig.json
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\TerminalApps\bin\Debug\net6.0\TerminalApps.dll
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\TerminalApps\bin\Debug\net6.0\TerminalApps.pdb
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\TerminalApps\obj\Debug\net6.0\TerminalApps.csproj.AssemblyReference.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\TerminalApps\obj\Debug\net6.0\TerminalApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\TerminalApps\obj\Debug\net6.0\TerminalApps.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\TerminalApps\obj\Debug\net6.0\TerminalApps.AssemblyInfo.cs
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\TerminalApps\obj\Debug\net6.0\TerminalApps.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\TerminalApps\obj\Debug\net6.0\TerminalApps.dll
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\TerminalApps\obj\Debug\net6.0\refint\TerminalApps.dll
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\TerminalApps\obj\Debug\net6.0\TerminalApps.pdb
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\TerminalApps\obj\Debug\net6.0\TerminalApps.genruntimeconfig.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\TerminalApps\obj\Debug\net6.0\ref\TerminalApps.dll

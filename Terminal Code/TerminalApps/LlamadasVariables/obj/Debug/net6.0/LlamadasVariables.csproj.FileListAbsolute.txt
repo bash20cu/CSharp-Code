@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\LlamadasVariables\bin\Debug\net6.0\LlamadasVariables.exe
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\LlamadasVariables\bin\Debug\net6.0\LlamadasVariables.deps.json
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\LlamadasVariables\bin\Debug\net6.0\LlamadasVariables.runtimeconfig.json
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\LlamadasVariables\bin\Debug\net6.0\LlamadasVariables.dll
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\LlamadasVariables\bin\Debug\net6.0\LlamadasVariables.pdb
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\LlamadasVariables\obj\Debug\net6.0\LlamadasVariables.csproj.AssemblyReference.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\LlamadasVariables\obj\Debug\net6.0\LlamadasVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\LlamadasVariables\obj\Debug\net6.0\LlamadasVariables.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\LlamadasVariables\obj\Debug\net6.0\LlamadasVariables.AssemblyInfo.cs
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\LlamadasVariables\obj\Debug\net6.0\LlamadasVariables.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\LlamadasVariables\obj\Debug\net6.0\LlamadasVariables.dll
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\LlamadasVariables\obj\Debug\net6.0\refint\LlamadasVariables.dll
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\LlamadasVariables\obj\Debug\net6.0\LlamadasVariables.pdb
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\LlamadasVariables\obj\Debug\net6.0\LlamadasVariables.genruntimeconfig.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\LlamadasVariables\obj\Debug\net6.0\ref\LlamadasVariables.dll
