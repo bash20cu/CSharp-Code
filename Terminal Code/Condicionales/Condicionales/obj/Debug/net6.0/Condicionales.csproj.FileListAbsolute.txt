@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\Condicionales\Condicionales\bin\Debug\net6.0\Condicionales.exe
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\Condicionales\Condicionales\bin\Debug\net6.0\Condicionales.deps.json
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\Condicionales\Condicionales\bin\Debug\net6.0\Condicionales.runtimeconfig.json
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\Condicionales\Condicionales\bin\Debug\net6.0\Condicionales.dll
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\Condicionales\Condicionales\bin\Debug\net6.0\Condicionales.pdb
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\Condicionales\Condicionales\obj\Debug\net6.0\Condicionales.csproj.AssemblyReference.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\Condicionales\Condicionales\obj\Debug\net6.0\Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\Condicionales\Condicionales\obj\Debug\net6.0\Condicionales.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\Condicionales\Condicionales\obj\Debug\net6.0\Condicionales.AssemblyInfo.cs
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\Condicionales\Condicionales\obj\Debug\net6.0\Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\Condicionales\Condicionales\obj\Debug\net6.0\Condicionales.dll
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\Condicionales\Condicionales\obj\Debug\net6.0\refint\Condicionales.dll
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\Condicionales\Condicionales\obj\Debug\net6.0\Condicionales.pdb
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\Condicionales\Condicionales\obj\Debug\net6.0\Condicionales.genruntimeconfig.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\Condicionales\Condicionales\obj\Debug\net6.0\ref\Condicionales.dll
