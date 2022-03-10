@@ -1,2 +1,19 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+namespace TerminalApps
+{
+    class MyClass
+    {
+        public static void Main(string[] args)
+        {
+            //UseSwitchCase.SwitchCase();
+            //WhileCycleHeroMonsterGame.HeroMonsterGame();
+            //LlamadaVariables.Variables.LlamadaVariables();
+            //ForCycleFizzBuzz.FizzBuzz();
+            //ConvertingData.ConvertData();
+            ArraysExample.Arrays();
+        }
+    }   
+
+}
+
+
