@@ -3,9 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerminalApps", "TerminalApps\TerminalApps.csproj", "{A7078163-D75A-4016-975E-708A264B5967}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TerminalApps", "TerminalApps\TerminalApps.csproj", "{A7078163-D75A-4016-975E-708A264B5967}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LlamadasVariables", "LlamadasVariables\LlamadasVariables.csproj", "{09FE832B-B539-4C5C-9C5C-AC5815AB4A22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LlamadasVariables", "LlamadasVariables\LlamadasVariables.csproj", "{09FE832B-B539-4C5C-9C5C-AC5815AB4A22}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UseSwitchCase", "UseSwitchCase\UseSwitchCase.csproj", "{2B74F0FB-C975-42EB-A4E3-17772540AB1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forCycleFizzBuzz", "forCycleFizzBuzz\forCycleFizzBuzz.csproj", "{B6C91BDC-4A57-4C19-A391-4E851E626109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileCycleHeroMonterGame", "WhileCycleHeroMonterGame\WhileCycleHeroMonterGame.csproj", "{3F632157-9CB6-4075-A40D-2E5C77B92F2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertingData", "ConvertingData\ConvertingData.csproj", "{AB6571EC-63D8-4B48-B6C0-D99FA8F0DE70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,22 @@ Global
 		{09FE832B-B539-4C5C-9C5C-AC5815AB4A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09FE832B-B539-4C5C-9C5C-AC5815AB4A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09FE832B-B539-4C5C-9C5C-AC5815AB4A22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B74F0FB-C975-42EB-A4E3-17772540AB1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B74F0FB-C975-42EB-A4E3-17772540AB1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B74F0FB-C975-42EB-A4E3-17772540AB1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B74F0FB-C975-42EB-A4E3-17772540AB1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6C91BDC-4A57-4C19-A391-4E851E626109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C91BDC-4A57-4C19-A391-4E851E626109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C91BDC-4A57-4C19-A391-4E851E626109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C91BDC-4A57-4C19-A391-4E851E626109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F632157-9CB6-4075-A40D-2E5C77B92F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F632157-9CB6-4075-A40D-2E5C77B92F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F632157-9CB6-4075-A40D-2E5C77B92F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F632157-9CB6-4075-A40D-2E5C77B92F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB6571EC-63D8-4B48-B6C0-D99FA8F0DE70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6571EC-63D8-4B48-B6C0-D99FA8F0DE70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6571EC-63D8-4B48-B6C0-D99FA8F0DE70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6571EC-63D8-4B48-B6C0-D99FA8F0DE70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

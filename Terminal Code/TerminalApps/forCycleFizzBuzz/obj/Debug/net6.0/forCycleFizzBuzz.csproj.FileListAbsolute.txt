@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\forCycleFizzBuzz\bin\Debug\net6.0\forCycleFizzBuzz.exe
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\forCycleFizzBuzz\bin\Debug\net6.0\forCycleFizzBuzz.deps.json
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\forCycleFizzBuzz\bin\Debug\net6.0\forCycleFizzBuzz.runtimeconfig.json
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\forCycleFizzBuzz\bin\Debug\net6.0\forCycleFizzBuzz.dll
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\forCycleFizzBuzz\bin\Debug\net6.0\forCycleFizzBuzz.pdb
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\forCycleFizzBuzz\obj\Debug\net6.0\forCycleFizzBuzz.csproj.AssemblyReference.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\forCycleFizzBuzz\obj\Debug\net6.0\forCycleFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\forCycleFizzBuzz\obj\Debug\net6.0\forCycleFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\forCycleFizzBuzz\obj\Debug\net6.0\forCycleFizzBuzz.AssemblyInfo.cs
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\forCycleFizzBuzz\obj\Debug\net6.0\forCycleFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\forCycleFizzBuzz\obj\Debug\net6.0\forCycleFizzBuzz.dll
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\forCycleFizzBuzz\obj\Debug\net6.0\refint\forCycleFizzBuzz.dll
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\forCycleFizzBuzz\obj\Debug\net6.0\forCycleFizzBuzz.pdb
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\forCycleFizzBuzz\obj\Debug\net6.0\forCycleFizzBuzz.genruntimeconfig.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\forCycleFizzBuzz\obj\Debug\net6.0\ref\forCycleFizzBuzz.dll

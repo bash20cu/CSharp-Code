@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\WhileCycleHeroMonterGame\bin\Debug\net6.0\WhileCycleHeroMonterGame.exe
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\WhileCycleHeroMonterGame\bin\Debug\net6.0\WhileCycleHeroMonterGame.deps.json
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\WhileCycleHeroMonterGame\bin\Debug\net6.0\WhileCycleHeroMonterGame.runtimeconfig.json
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\WhileCycleHeroMonterGame\bin\Debug\net6.0\WhileCycleHeroMonterGame.dll
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\WhileCycleHeroMonterGame\bin\Debug\net6.0\WhileCycleHeroMonterGame.pdb
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\WhileCycleHeroMonterGame\obj\Debug\net6.0\WhileCycleHeroMonterGame.csproj.AssemblyReference.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\WhileCycleHeroMonterGame\obj\Debug\net6.0\WhileCycleHeroMonterGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\WhileCycleHeroMonterGame\obj\Debug\net6.0\WhileCycleHeroMonterGame.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\WhileCycleHeroMonterGame\obj\Debug\net6.0\WhileCycleHeroMonterGame.AssemblyInfo.cs
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\WhileCycleHeroMonterGame\obj\Debug\net6.0\WhileCycleHeroMonterGame.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\WhileCycleHeroMonterGame\obj\Debug\net6.0\WhileCycleHeroMonterGame.dll
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\WhileCycleHeroMonterGame\obj\Debug\net6.0\refint\WhileCycleHeroMonterGame.dll
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\WhileCycleHeroMonterGame\obj\Debug\net6.0\WhileCycleHeroMonterGame.pdb
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\WhileCycleHeroMonterGame\obj\Debug\net6.0\WhileCycleHeroMonterGame.genruntimeconfig.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\WhileCycleHeroMonterGame\obj\Debug\net6.0\ref\WhileCycleHeroMonterGame.dll

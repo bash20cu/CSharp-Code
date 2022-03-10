@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\ConvertingData\bin\Debug\net6.0\ConvertingData.exe
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\ConvertingData\bin\Debug\net6.0\ConvertingData.deps.json
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\ConvertingData\bin\Debug\net6.0\ConvertingData.runtimeconfig.json
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\ConvertingData\bin\Debug\net6.0\ConvertingData.dll
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\ConvertingData\bin\Debug\net6.0\ConvertingData.pdb
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\ConvertingData\obj\Debug\net6.0\ConvertingData.csproj.AssemblyReference.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\ConvertingData\obj\Debug\net6.0\ConvertingData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\ConvertingData\obj\Debug\net6.0\ConvertingData.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\ConvertingData\obj\Debug\net6.0\ConvertingData.AssemblyInfo.cs
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\ConvertingData\obj\Debug\net6.0\ConvertingData.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\ConvertingData\obj\Debug\net6.0\ConvertingData.dll
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\ConvertingData\obj\Debug\net6.0\refint\ConvertingData.dll
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\ConvertingData\obj\Debug\net6.0\ConvertingData.pdb
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\ConvertingData\obj\Debug\net6.0\ConvertingData.genruntimeconfig.cache
+C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\ConvertingData\obj\Debug\net6.0\ref\ConvertingData.dll
