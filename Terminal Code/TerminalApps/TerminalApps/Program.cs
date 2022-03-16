@@ -10,7 +10,8 @@ namespace TerminalApps
             //LlamadaVariables.Variables.LlamadaVariables();
             //ForCycleFizzBuzz.FizzBuzz();
             //ConvertingData.ConvertData();
-            ArraysExample.Arrays();
+            //ArraysExample.Arrays();
+            StringsSolution.stringSolution();
         }
     }   
 
