@@ -11,7 +11,7 @@ namespace TerminalApps
         public static void stringSolution()
         {
             Console.WriteLine("Strings Solutions ");
-            Console.WriteLine(" Uso del IndexOf para extraer Cadenas ");
+            //Console.WriteLine(" Uso del IndexOf para extraer Cadenas ");
 
             //string message = "Find what is (inside the parentheses)";
 
@@ -78,63 +78,78 @@ namespace TerminalApps
              Código para trabajar con distintos tipos de conjuntos de símbolos
              */
 
-            Console.WriteLine(" ");
-            string message = "(What if) I have [different symbols] but every {open symbol} needs a [matching closing symbol]?";
-            Console.WriteLine($"Message: {message}");
-            Console.WriteLine(" ");
+            //Console.WriteLine(" ");
+            //string message = "(What if) I have [different symbols] but every {open symbol} needs a [matching closing symbol]?";
+            //Console.WriteLine($"Message: {message}");
+            //Console.WriteLine(" ");
 
-            // The IndexOfAny() helper method requires a char array of characters. 
-            // We want to look for:
+            //// The IndexOfAny() helper method requires a char array of characters. 
+            //// We want to look for:
 
-            char[] openSymbols = { '[', '{', '(' };
+            //char[] openSymbols = { '[', '{', '(' };
 
-            // We'll use a slightly different technique for iterating through the 
-            // characters in the string. This time, we'll use the closing position
-            // of the previous iteration as the starting index for the next open
-            // symbol. So, we need to initialize the closingPosition variable
-            // to zero:
+            //// We'll use a slightly different technique for iterating through the 
+            //// characters in the string. This time, we'll use the closing position
+            //// of the previous iteration as the starting index for the next open
+            //// symbol. So, we need to initialize the closingPosition variable
+            //// to zero:
 
-            int closingPosition = 0;
+            //int closingPosition = 0;
 
-            while (true)
-            {
-                int openingPosition = message.IndexOfAny(openSymbols, closingPosition);
+            //while (true)
+            //{
+            //    int openingPosition = message.IndexOfAny(openSymbols, closingPosition);
 
-                if (openingPosition == -1) break;
+            //    if (openingPosition == -1) break;
 
-                string currentSymbol = message.Substring(openingPosition, 1);
+            //    string currentSymbol = message.Substring(openingPosition, 1);
 
-                // Now we must find the matching closing symbol
-                char matchingSymbol = ' ';
+            //    // Now we must find the matching closing symbol
+            //    char matchingSymbol = ' ';
 
-                switch (currentSymbol)
-                {
-                    case "[":
-                        matchingSymbol = ']';
-                        break;
-                    case "{":
-                        matchingSymbol = '}';
-                        break;
-                    case "(":
-                        matchingSymbol = ')';
-                        break;
-                }
-                Console.WriteLine($"Symbol: {currentSymbol.ToString()} {matchingSymbol.ToString()}");
+            //    switch (currentSymbol)
+            //    {
+            //        case "[":
+            //            matchingSymbol = ']';
+            //            break;
+            //        case "{":
+            //            matchingSymbol = '}';
+            //            break;
+            //        case "(":
+            //            matchingSymbol = ')';
+            //            break;
+            //    }
+            //    Console.WriteLine($"Symbol: {currentSymbol.ToString()} {matchingSymbol.ToString()}");
 
-                // To find the closingPosition, we use an overload of the IndexOf method to specify 
-                // that our search for the matchingSymbol should start at the openingPosition in the string. 
+            //    // To find the closingPosition, we use an overload of the IndexOf method to specify 
+            //    // that our search for the matchingSymbol should start at the openingPosition in the string. 
 
-                openingPosition += 1;
-                closingPosition = message.IndexOf(matchingSymbol, openingPosition);
+            //    openingPosition += 1;
+            //    closingPosition = message.IndexOf(matchingSymbol, openingPosition);
 
-                
-                // Finally, use the techniques we've already learned to display the sub-string:
 
-                int length = closingPosition - openingPosition;
-                Console.WriteLine($"String inside of the Symbol: {message.Substring(openingPosition, length)}");
-                Console.WriteLine(" ");
-            }
+            //    // Finally, use the techniques we've already learned to display the sub-string:
 
+            //    int length = closingPosition - openingPosition;
+            //    Console.WriteLine($"String inside of the Symbol: {message.Substring(openingPosition, length)}");
+            //    Console.WriteLine(" ");
+            //}
+
+
+
+            ///* Uso del string.remove() y el String.replace() */
+            //string message = "This--is--ex-amp-le--da-ta";
+            //Console.WriteLine(" ");
+            //Console.WriteLine(message);
+            //message = message.Replace("--", " ");
+            //message = message.Replace("-", "");
+            //Console.WriteLine($"Replace -- with white space: {message} ");
+
+            //string data = "12345John Smith          5000  3  ";
+            //Console.WriteLine(" ");
+            //Console.WriteLine(message);
+            //string updatedData = data.Remove(5, 20);
+            //Console.WriteLine($"Remove the name: {updatedData}");
 
         }
     }
