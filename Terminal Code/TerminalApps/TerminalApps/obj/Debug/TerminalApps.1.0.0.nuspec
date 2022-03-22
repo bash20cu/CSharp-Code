@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TerminalApps</id>
+    <version>1.0.0</version>
+    <authors>TerminalApps</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\TerminalApps\bin\Debug\net6.0\TerminalApps.runtimeconfig.json" target="lib\net6.0\TerminalApps.runtimeconfig.json" />
+    <file src="C:\Users\migue\Documents\CSharp-Code\CSharp-Code\Terminal Code\TerminalApps\TerminalApps\bin\Debug\net6.0\TerminalApps.dll" target="lib\net6.0\TerminalApps.dll" />
+  </files>
+</package>
