@@ -1,0 +1,4 @@
+date today:22/3/2022
+images today:3
+show on startup:True
+limit range:False

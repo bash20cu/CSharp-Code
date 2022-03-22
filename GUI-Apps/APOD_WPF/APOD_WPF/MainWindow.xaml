@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:APOD_WPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="641" Width="1200">
+        Title="MainWindow" Height="641" Width="1200" Closed="Window_Closed">
     <Grid x:Name="ImagesTodayTextBox1">
         <DatePicker x:Name="MonthCalendar" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" SelectedDateChanged="MonthCalendar_SelectedDateChanged_1"/>
         <Button x:Name="LaunchButton" Content="Ir a la fecha de inicio de APOD" HorizontalAlignment="Left" Margin="10,48,0,0" VerticalAlignment="Top" Height="27" Width="190" Click="LaunchButton_Click"/>

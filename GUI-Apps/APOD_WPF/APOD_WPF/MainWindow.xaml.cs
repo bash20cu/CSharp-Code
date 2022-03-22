@@ -36,6 +36,20 @@ namespace APOD_WPF
         // Flag to ignore a strange double event in WPF.
         bool ignoreDoubleEvent = false;
 
+        // Init file name strings, used to preserve UI values between sessions.
+        const string SettingToday = "date today";
+        const string SettingShowOnStartup = "show on startup";
+        const string SettingImageCountToday = "images today";
+        const string SettingLimitRange = "limit range";
+        
+        // The full path to the init file.
+        string initFilePath;
+
+        // A char used to divide the name from the value in the init file.
+        const char SettingDivider = ':';
+
+
+
         public MainWindow()
         {
             InitializeComponent();
@@ -43,6 +57,18 @@ namespace APOD_WPF
             // Set the maximum date to today and the minimum date to the APOD launch date.
             MonthCalendar.DisplayDateEnd = DateTime.Today;
             MonthCalendar.DisplayDateStart = launchDate;
+            // Store the init file in the same folder as the application.
+            initFilePath = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "init_apod.txt");
+
+            // Set the maximum date to today, and the minimum date to the date APOD was launched.
+            MonthCalendar.DisplayDateEnd = DateTime.Today;
+            MonthCalendar.DisplayDateStart = launchDate;
+
+            // Store the init file in the same folder as the application.
+            initFilePath = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "init_apod.txt");
+
+            // Read the init file and set UI fields.
+            ReadInitFile();
         }
 
         private void LaunchButton_Click(object sender, RoutedEventArgs e)
@@ -174,6 +200,104 @@ namespace APOD_WPF
             {
                 DescriptionTextBox.Text = "We were unable to retrieve the NASA picture for that day: " +
                     $"{response.StatusCode.ToString()} {response.ReasonPhrase}";
+            }
+        }
+
+        private void Window_Closed(object sender, EventArgs e)
+        {
+            WriteInitFile();
+        }
+        private void WriteInitFile()
+        {
+            using (var sw = new StreamWriter(initFilePath))
+            {
+                // Write out todays date, to keep track on the downloads per day.
+                sw.WriteLine(SettingToday + SettingDivider + DateTime.Today.ToShortDateString());
+
+                // Write out the number of images we have downloaded today.
+                sw.WriteLine(SettingImageCountToday + SettingDivider + imageCountToday.ToString());
+
+                // Write out the UI settings we want to preserve for the next time.
+                sw.WriteLine(SettingShowOnStartup + SettingDivider + ShowTodaysImageCheckBox.IsChecked.ToString());
+                sw.WriteLine(SettingLimitRange + SettingDivider + LimitRangeCheckBox.IsChecked.ToString());
+            }
+        }
+
+        private void ReadInitFile()
+        {
+            // Check that we have an init file.
+            if (File.Exists(initFilePath))
+            {
+                String line = null;
+                String[] part;
+                bool isToday = false;
+
+                using (var sr = new StreamReader(initFilePath))
+                {
+                    while ((line = sr.ReadLine()) != null)
+                    {
+                        // Split the line into the part before the colon (the name), and the part after (the value).
+                        part = line.Split(SettingDivider);
+
+                        // Switch on the "name" part, and then process the "value" part.
+                        switch (part[0])
+                        {
+                            // Read the date and, if it's today's date, read the number of images already downloaded.
+                            // If it's not today's date, set the number of downloads back to zero.
+                            case SettingToday:
+                                var dt = DateTime.Parse(part[1]);
+                                if (dt.Equals(DateTime.Today))
+                                {
+                                    isToday = true;
+                                }
+                                break;
+
+                            case SettingImageCountToday:
+
+                                // If the last time the app was used was earlier today, the
+                                // image count stored is valid against the 50-per-day maximum.
+                                if (isToday)
+                                {
+                                    imageCountToday = int.Parse(part[1]);
+                                }
+                                else
+                                {
+                                    imageCountToday = 0;
+                                }
+                                break;
+
+                            case SettingShowOnStartup:
+                                ShowTodaysImageCheckBox.IsChecked = bool.Parse(part[1]);
+                                break;
+
+                            case SettingLimitRange:
+
+                                // This statement might invoke a call to LimitRangeCheckBox_CheckedChanged.
+                                LimitRangeCheckBox.IsChecked = bool.Parse(part[1]);
+                                break;
+
+                            default:
+                                throw new Exception("Unknown init file entry: " + line);
+                        }
+                    }
+                }
+            }
+            else
+            {
+                // No init file exists yet, so set defaults.
+                imageCountToday = 0;
+                ShowTodaysImageCheckBox.IsChecked = true;
+                LimitRangeCheckBox.IsChecked = false;
+            }
+
+            ImagesTodayTextBox.Text = imageCountToday.ToString();
+
+            // Make a call to retrieve a picture on startup, if required by the setting.
+            if (ShowTodaysImageCheckBox.IsChecked == true)
+            {
+                // Note that, in WPF, this fires a double event, the first of which should be ignored.
+                ignoreDoubleEvent = true;
+                MonthCalendar.SelectedDate = DateTime.Today;
             }
         }
     }
