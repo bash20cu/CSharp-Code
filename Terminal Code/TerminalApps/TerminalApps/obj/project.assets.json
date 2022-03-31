@@ -1353,11 +1353,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\migue\\Documents\\CSharp-Code\\CSharp-Code\\Terminal Code\\TerminalApps\\TerminalApps\\TerminalApps.csproj",
+      "projectUniqueName": "C:\\Users\\migue\\OneDrive\\Documents\\GitHub\\CSharp-Code\\Terminal Code\\TerminalApps\\TerminalApps\\TerminalApps.csproj",
       "projectName": "TerminalApps",
-      "projectPath": "C:\\Users\\migue\\Documents\\CSharp-Code\\CSharp-Code\\Terminal Code\\TerminalApps\\TerminalApps\\TerminalApps.csproj",
+      "projectPath": "C:\\Users\\migue\\OneDrive\\Documents\\GitHub\\CSharp-Code\\Terminal Code\\TerminalApps\\TerminalApps\\TerminalApps.csproj",
       "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\migue\\Documents\\CSharp-Code\\CSharp-Code\\Terminal Code\\TerminalApps\\TerminalApps\\obj\\",
+      "outputPath": "C:\\Users\\migue\\OneDrive\\Documents\\GitHub\\CSharp-Code\\Terminal Code\\TerminalApps\\TerminalApps\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LwVVYKo8Nlu1S2jLfsxkDSh8m3OqJt/VfksnE3YOC5RQyoKJxEv23stnGtGejr1cxjtsNpY5aIT4eetA4UyVfQ==",
+  "dgSpecHash": "iC1U3pEVfpGjnw31oQ4t9X/hN2sYJ4qz9lPMAcbCW4e7Af3WtBLYuJTX/UFiy5I4JU2n+NP6BtCYgQaJywbu+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\migue\\Documents\\CSharp-Code\\CSharp-Code\\Terminal Code\\TerminalApps\\TerminalApps\\TerminalApps.csproj",
+  "projectFilePath": "C:\\Users\\migue\\OneDrive\\Documents\\GitHub\\CSharp-Code\\Terminal Code\\TerminalApps\\TerminalApps\\TerminalApps.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\migue\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\migue\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

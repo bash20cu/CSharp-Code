@@ -11,7 +11,8 @@ namespace TerminalApps
             //ForCycleFizzBuzz.FizzBuzz();
             //ConvertingData.ConvertData();
             //ArraysExample.Arrays();
-            StringsSolution.stringSolution();
+            //StringsSolution.stringSolution();
+            //DotNetDebugging.NetDebugging();
         }
     }   
 
