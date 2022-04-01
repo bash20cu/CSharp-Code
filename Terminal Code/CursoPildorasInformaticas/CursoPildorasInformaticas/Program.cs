@@ -1,3 +1,12 @@
 ﻿using System;
 
-Uri
+namespace CursoPildorasInformaticas
+{
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+
+        }
+    }
+}
