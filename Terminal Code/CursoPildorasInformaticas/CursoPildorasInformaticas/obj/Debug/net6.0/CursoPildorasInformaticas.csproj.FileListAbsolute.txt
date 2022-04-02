@@ -1,0 +1,15 @@
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CursoPildorasInformaticas\CursoPildorasInformaticas\bin\Debug\net6.0\CursoPildorasInformaticas.exe
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CursoPildorasInformaticas\CursoPildorasInformaticas\bin\Debug\net6.0\CursoPildorasInformaticas.deps.json
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CursoPildorasInformaticas\CursoPildorasInformaticas\bin\Debug\net6.0\CursoPildorasInformaticas.runtimeconfig.json
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CursoPildorasInformaticas\CursoPildorasInformaticas\bin\Debug\net6.0\CursoPildorasInformaticas.dll
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CursoPildorasInformaticas\CursoPildorasInformaticas\bin\Debug\net6.0\CursoPildorasInformaticas.pdb
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CursoPildorasInformaticas\CursoPildorasInformaticas\obj\Debug\net6.0\CursoPildorasInformaticas.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CursoPildorasInformaticas\CursoPildorasInformaticas\obj\Debug\net6.0\CursoPildorasInformaticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CursoPildorasInformaticas\CursoPildorasInformaticas\obj\Debug\net6.0\CursoPildorasInformaticas.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CursoPildorasInformaticas\CursoPildorasInformaticas\obj\Debug\net6.0\CursoPildorasInformaticas.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CursoPildorasInformaticas\CursoPildorasInformaticas\obj\Debug\net6.0\CursoPildorasInformaticas.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CursoPildorasInformaticas\CursoPildorasInformaticas\obj\Debug\net6.0\CursoPildorasInformaticas.dll
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CursoPildorasInformaticas\CursoPildorasInformaticas\obj\Debug\net6.0\refint\CursoPildorasInformaticas.dll
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CursoPildorasInformaticas\CursoPildorasInformaticas\obj\Debug\net6.0\CursoPildorasInformaticas.pdb
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CursoPildorasInformaticas\CursoPildorasInformaticas\obj\Debug\net6.0\CursoPildorasInformaticas.genruntimeconfig.cache
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CursoPildorasInformaticas\CursoPildorasInformaticas\obj\Debug\net6.0\ref\CursoPildorasInformaticas.dll
