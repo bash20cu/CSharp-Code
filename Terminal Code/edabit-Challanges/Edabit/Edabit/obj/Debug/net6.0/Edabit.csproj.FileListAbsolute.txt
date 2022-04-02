@@ -1,0 +1,15 @@
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\edabit-Challanges\Edabit\Edabit\obj\Debug\net6.0\Edabit.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\edabit-Challanges\Edabit\Edabit\obj\Debug\net6.0\Edabit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\edabit-Challanges\Edabit\Edabit\obj\Debug\net6.0\Edabit.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\edabit-Challanges\Edabit\Edabit\obj\Debug\net6.0\Edabit.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\edabit-Challanges\Edabit\Edabit\obj\Debug\net6.0\Edabit.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\edabit-Challanges\Edabit\Edabit\bin\Debug\net6.0\Edabit.exe
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\edabit-Challanges\Edabit\Edabit\bin\Debug\net6.0\Edabit.deps.json
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\edabit-Challanges\Edabit\Edabit\bin\Debug\net6.0\Edabit.runtimeconfig.json
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\edabit-Challanges\Edabit\Edabit\bin\Debug\net6.0\Edabit.dll
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\edabit-Challanges\Edabit\Edabit\bin\Debug\net6.0\Edabit.pdb
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\edabit-Challanges\Edabit\Edabit\obj\Debug\net6.0\Edabit.dll
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\edabit-Challanges\Edabit\Edabit\obj\Debug\net6.0\refint\Edabit.dll
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\edabit-Challanges\Edabit\Edabit\obj\Debug\net6.0\Edabit.pdb
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\edabit-Challanges\Edabit\Edabit\obj\Debug\net6.0\Edabit.genruntimeconfig.cache
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\edabit-Challanges\Edabit\Edabit\obj\Debug\net6.0\ref\Edabit.dll

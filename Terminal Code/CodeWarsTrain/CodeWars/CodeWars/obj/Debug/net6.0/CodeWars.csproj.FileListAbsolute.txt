@@ -1,0 +1,15 @@
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CodeWarsTrain\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.exe
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CodeWarsTrain\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.deps.json
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CodeWarsTrain\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.runtimeconfig.json
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CodeWarsTrain\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.dll
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CodeWarsTrain\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.pdb
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CodeWarsTrain\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CodeWarsTrain\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CodeWarsTrain\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CodeWarsTrain\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CodeWarsTrain\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CodeWarsTrain\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.dll
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CodeWarsTrain\CodeWars\CodeWars\obj\Debug\net6.0\refint\CodeWars.dll
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CodeWarsTrain\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.pdb
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CodeWarsTrain\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.genruntimeconfig.cache
+C:\Users\migue\OneDrive\Documents\GitHub\CSharp-Code\Terminal Code\CodeWarsTrain\CodeWars\CodeWars\obj\Debug\net6.0\ref\CodeWars.dll
