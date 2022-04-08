@@ -24,9 +24,18 @@ namespace CodeWars
             //string str = "Indivisibilities";
             //DuplicateCountChallanges.DuplicateCount(str);
 
-            IEnumerable<int> list = new List<int>() { -2, 2, 2, 2 };
+            //IEnumerable<int> list = new List<int>() { -2, 2, 2, 2 };
+            //GetUniqueChallange.GetUnique(list);
 
-            GetUniqueChallange.GetUnique(list);
+            //Console.WriteLine(IsPrimeChallange.IsPrime(2000000000));
+
+            //int[] vs = { -2, 1, -3, 4, -1, 2, 1, -5, 4 };
+            //Console.WriteLine(MaxSequenceChallange.MaxSequence(vs));
+
+            var a = new List<int>() { 5, 6, 7 };
+            var b = new List<int>() { 3, 6, 10 };
+            compareTripletsChallange.compareTriplets(a, b);
+
         }
     }
 }
